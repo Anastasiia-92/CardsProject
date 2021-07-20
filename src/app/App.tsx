@@ -12,7 +12,7 @@ import {MainPage} from "../features/MainPage";
 
 function App() {
   return (
-      <HashRouter>
+      <HashRouter basename='/'>
     <div className={'App'}>
         <Switch>
             <Route exact path={'/'} render={() => <MainPage/>}/>
