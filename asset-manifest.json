@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/CardsProject/static/css/main.bbf151ef.chunk.css",
-    "main.js": "/CardsProject/static/js/main.1cc87cc8.chunk.js",
-    "main.js.map": "/CardsProject/static/js/main.1cc87cc8.chunk.js.map",
+    "main.js": "/CardsProject/static/js/main.d5b06eff.chunk.js",
+    "main.js.map": "/CardsProject/static/js/main.d5b06eff.chunk.js.map",
     "runtime-main.js": "/CardsProject/static/js/runtime-main.d72112ca.js",
     "runtime-main.js.map": "/CardsProject/static/js/runtime-main.d72112ca.js.map",
-    "static/js/2.bcbf2006.chunk.js": "/CardsProject/static/js/2.bcbf2006.chunk.js",
-    "static/js/2.bcbf2006.chunk.js.map": "/CardsProject/static/js/2.bcbf2006.chunk.js.map",
+    "static/js/2.bf275aac.chunk.js": "/CardsProject/static/js/2.bf275aac.chunk.js",
+    "static/js/2.bf275aac.chunk.js.map": "/CardsProject/static/js/2.bf275aac.chunk.js.map",
     "static/js/3.434fb9fa.chunk.js": "/CardsProject/static/js/3.434fb9fa.chunk.js",
     "static/js/3.434fb9fa.chunk.js.map": "/CardsProject/static/js/3.434fb9fa.chunk.js.map",
     "index.html": "/CardsProject/index.html",
     "static/css/main.bbf151ef.chunk.css.map": "/CardsProject/static/css/main.bbf151ef.chunk.css.map",
-    "static/js/2.bcbf2006.chunk.js.LICENSE.txt": "/CardsProject/static/js/2.bcbf2006.chunk.js.LICENSE.txt"
+    "static/js/2.bf275aac.chunk.js.LICENSE.txt": "/CardsProject/static/js/2.bf275aac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d72112ca.js",
-    "static/js/2.bcbf2006.chunk.js",
+    "static/js/2.bf275aac.chunk.js",
     "static/css/main.bbf151ef.chunk.css",
-    "static/js/main.1cc87cc8.chunk.js"
+    "static/js/main.d5b06eff.chunk.js"
   ]
 }
