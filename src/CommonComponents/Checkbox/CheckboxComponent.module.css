@@ -1,0 +1,38 @@
+input[type=checkbox] {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    outline: none;
+    content: none;
+}
+
+.checkboxComponent {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.checkboxComponent {
+    content: '';
+    background: #fff;
+    display: inline-block;
+    vertical-align: middle;
+    width: 25px;
+    height: 25px;
+    padding: 2px;
+    text-align: center;
+    border: 2px solid lightcoral;
+    margin: 20px;
+    border-radius: 3px;
+
+}
+
+.checkboxComponent:checked {
+    background: lightcoral;
+    box-shadow: inset 0px 0px 0px 4px #fff;
+}
+.text{
+    font-size: 16px;
+    font-weight: bold;
+    color: #f36666;
+}
