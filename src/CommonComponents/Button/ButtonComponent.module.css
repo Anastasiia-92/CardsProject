@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap');
+.btn{
+    border: none;
+    display: block;
+    position: relative;
+    text-decoration: none;
+    color: #f9a9ae;
+    width: 120px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    font-weight: bold;
+    font-size: 18px;
+    transition: .4s;
+    background-image: -webkit-linear-gradient(#fed6e3 0%, #ffaaaa 100%);
+    background-image: linear-gradient(#fed6e3 0%, #ffaaaa 100%);
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.66);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.28);
+    margin: 10px 20px;
+}
+
+.btn:active{
+    -ms-transform: translateY(2px);
+    -webkit-transform: translateY(2px);
+    transform: translateY(2px);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
+    background-image: -webkit-linear-gradient(#fed6e3 0%, #ffbcbc 100%);
+    background-image: linear-gradient(#fed6e3 0%, #ffbcbc 100%);
+}
+.btn:hover {
+    background-image: -webkit-linear-gradient(#ffbad4 0%, #fd9090 100%);
+    background-image: linear-gradient(#ffcad9 0%, #ff9494 100%);
+    color: #ff858e;
+}
+.btn:disabled {
+    background-image: -webkit-linear-gradient(rgba(255, 186, 212, 0.34) 0%, rgba(253, 144, 144, 0.35) 100%);
+    background-image: linear-gradient(rgba(255, 202, 217, 0.29) 0%, rgba(255, 148, 148, 0.37) 100%);
+    color: rgba(255, 133, 142, 0.38);
+}

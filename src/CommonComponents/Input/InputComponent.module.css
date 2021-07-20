@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap');
+
+.inputComponent{
+    outline: none;
+}
+.inputComponent{
+    margin: 20px;
+    display: inline-block;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+    border: 5px solid lightcoral;
+    padding: 7px;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.inputError{
+    font-size: 16px;
+    font-weight: bold;
+    color: #f36666;
+    display: inline-block;
+}
+.inputComponent:hover {
+    border: 5px solid #f36666;
+
+}

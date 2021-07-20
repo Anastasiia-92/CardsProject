@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import {BrowserRouter, Redirect, Route, Switch} from 'react-router-dom'
-import {SuperComponents} from "./SuperComponents";
-import {PageNotFound} from "./404";
-import {Profile} from "./Profile";
-import {SignUp} from "./SignUp";
-import {NewPassword} from "./newPassword";
-import {PasswordRecovery} from "./passwordRecovery";
-import {SignIn} from "./SignIn";
-import {MainPage} from "./MainPage";
+import {SuperComponents} from "../features/SuperComponents";
+import {PageNotFound} from "../features/404";
+import {Profile} from "../features/Profile";
+import {SignUp} from "../features/SignUp";
+import {NewPassword} from "../features/newPassword";
+import {PasswordRecovery} from "../features/passwordRecovery";
+import {SignIn} from "../features/SignIn";
+import {MainPage} from "../features/MainPage";
 
 function App() {
   return (
