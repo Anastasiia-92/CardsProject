@@ -17,7 +17,4 @@ export const setIsLoggedInAC = (value: boolean) =>
     ({type: 'login/SET-IS-LOGGED-IN', value} as const)
 
 
-
-// thunks
-
 type ActionsType = ReturnType<typeof setIsLoggedInAC>
