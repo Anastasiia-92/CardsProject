@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Anastasiia-92.github.io/CardsProject/static/css/main.bbf151ef.chunk.css",
+    "main.js": "/Anastasiia-92.github.io/CardsProject/static/js/main.1cc87cc8.chunk.js",
+    "main.js.map": "/Anastasiia-92.github.io/CardsProject/static/js/main.1cc87cc8.chunk.js.map",
+    "runtime-main.js": "/Anastasiia-92.github.io/CardsProject/static/js/runtime-main.008e8045.js",
+    "runtime-main.js.map": "/Anastasiia-92.github.io/CardsProject/static/js/runtime-main.008e8045.js.map",
+    "static/js/2.bcbf2006.chunk.js": "/Anastasiia-92.github.io/CardsProject/static/js/2.bcbf2006.chunk.js",
+    "static/js/2.bcbf2006.chunk.js.map": "/Anastasiia-92.github.io/CardsProject/static/js/2.bcbf2006.chunk.js.map",
+    "static/js/3.434fb9fa.chunk.js": "/Anastasiia-92.github.io/CardsProject/static/js/3.434fb9fa.chunk.js",
+    "static/js/3.434fb9fa.chunk.js.map": "/Anastasiia-92.github.io/CardsProject/static/js/3.434fb9fa.chunk.js.map",
+    "index.html": "/Anastasiia-92.github.io/CardsProject/index.html",
+    "static/css/main.bbf151ef.chunk.css.map": "/Anastasiia-92.github.io/CardsProject/static/css/main.bbf151ef.chunk.css.map",
+    "static/js/2.bcbf2006.chunk.js.LICENSE.txt": "/Anastasiia-92.github.io/CardsProject/static/js/2.bcbf2006.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.008e8045.js",
+    "static/js/2.bcbf2006.chunk.js",
+    "static/css/main.bbf151ef.chunk.css",
+    "static/js/main.1cc87cc8.chunk.js"
+  ]
+}
